@@ -46,7 +46,7 @@ export default function Home() {
       <div className="max-w-md w-full space-y-8 bg-white dark:bg-gray-800 p-10 rounded-xl shadow-md">
         <div>
           <h1 className="text-3xl font-extrabold text-center text-gray-900 dark:text-white">
-            Voodoo
+            Voodoo Scraper
           </h1>
           <p className="mt-2 text-center text-sm text-gray-600 dark:text-gray-400">
             Extract URLs from projects on{" "}

@@ -1,10 +1,10 @@
-# Voodoo
+# Voodoo Scraper
 
-![Alt](https://repobeats.axiom.co/api/embed/ded3735eb810e604dd95eed23e258a7ba2f34edc.svg "Voodoo")
+![Alt](https://repobeats.axiom.co/api/embed/ded3735eb810e604dd95eed23e258a7ba2f34edc.svg "Voodoo Scraper")
 
 ## Overview
 
-Voodoo is a simple, elegant web application that extracts URLs from projects on [base.org/ecosystem](https://base.org/ecosystem). It provides an easy way to view and copy all URLs from the ecosystem data.
+Voodoo Scraper is a simple, elegant web application that extracts URLs from projects on [base.org/ecosystem](https://base.org/ecosystem). It provides an easy way to view and copy all URLs from the ecosystem data.
 
 ## Features
 
